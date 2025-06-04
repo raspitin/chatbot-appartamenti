@@ -1,0 +1,10 @@
+# 🐚 Paguro - Requirements Minimi FINALI
+# Villa Celi - Palinuro, Cilento - v2.1.0
+
+Flask==2.3.3
+Flask-CORS==4.0.0
+requests==2.31.0
+python-dotenv==1.0.0
+colorlog==6.8.0
+gunicorn==21.2.0
+cachetools==5.3.2
