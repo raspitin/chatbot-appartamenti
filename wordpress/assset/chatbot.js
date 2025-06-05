@@ -68,7 +68,7 @@
                 console.log('Nessuna sessione trovata, verrà creata una nuova.');
             }
             // Messaggio di benvenuto
-            ChatBot.displayMessage("Ciao! Sono il tuo assistente virtuale per le prenotazioni a Villa Celi. Come posso aiutarti oggi?", 'bot');
+            ChatBot.displayMessage("Come posso aiutarti oggi?", 'bot');
         },
 
         // Binding eventi
